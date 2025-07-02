@@ -102,8 +102,8 @@ MIT License. See [LICENSE](LICENSE).
 
 ## 🙌 Author
 
-- [Your Name](https://www.linkedin.com/in/your-profile/)
-- [Your Hugging Face Profile](https://huggingface.co/uddipan107)
+- [Uddiapn Basu Bir](https://www.linkedin.com/in/your-profile/)
+- [Hugging Face Profile](https://huggingface.co/uddipan107)
 
 ---
 
