@@ -51,7 +51,7 @@ FULLSTACK-AI-OCR-MVC/
    Use the `/frontend_infer` endpoint at [controller API](https://uddipan107-ocr-dimt-controller.hf.space/docs) to POST files directly.
 
 3. **Test Model API:**  
-   See the [Swagger docs](https://uddipan107-ocr-dimt-model.hf.space/docs) for the model and test file upload.
+   Use the `/infer` endpoint at [model API](https://uddipan107-ocr-dimt-model.hf.space/docs) for the model and test file upload.
 
 ---
 
