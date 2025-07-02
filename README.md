@@ -102,7 +102,7 @@ MIT License. See [LICENSE](LICENSE).
 
 ## 🙌 Author
 
-- [Uddiapn Basu Bir](https://www.linkedin.com/in/your-profile/)
+- [Uddiapn Basu Bir](https://www.linkedin.com/in/uddipan-basu-bir/)
 - [Hugging Face Profile](https://huggingface.co/uddipan107)
 
 ---
