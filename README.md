@@ -10,6 +10,7 @@ A complete Model-View-Controller (MVC) architecture demo using FastAPI, Gradio, 
 
 ## 🗂️ Project Structure
 
+```
 FULLSTACK-AI-OCR-MVC/
 │
 ├── model/ # Model API (FastAPI)
@@ -28,6 +29,7 @@ FULLSTACK-AI-OCR-MVC/
 │
 ├── LICENSE
 └── README.md
+```
 
 ---
 
